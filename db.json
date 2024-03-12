@@ -1,0 +1,111 @@
+{
+  "error code": 0,
+  "result": [
+    {
+      "id": "1",
+      "SoThuTuBook": "1005",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "2",
+      "SoThuTuBook": "1005",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "3",
+      "SoThuTuBook": "3002",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "4",
+      "SoThuTuBook": "4005",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "5",
+      "SoThuTuBook": "4009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "6",
+      "SoThuTuBook": "4007",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "7",
+      "SoThuTuBook": "4004",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "8",
+      "SoThuTuBook": "4008",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "9",
+      "SoThuTuBook": "4009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "10",
+      "SoThuTuBook": "4008",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "11",
+      "SoThuTuBook": "9009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "12",
+      "SoThuTuBook": "4009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "13",
+      "SoThuTuBook": "4008",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "14",
+      "SoThuTuBook": "4009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "15",
+      "SoThuTuBook": "9008",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "16",
+      "SoThuTuBook": "4009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "17",
+      "SoThuTuBook": "4009",
+      "TGGiaoDich": "01/02/2024 09:30",
+      "status": "goimoi"
+    },
+    {
+      "id": "eca4"
+    }
+  ],
+  "message": "thanh cong"
+}
